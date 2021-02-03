@@ -63,4 +63,4 @@ highlight_name: false
 I am a research assistant at the Shenzhen Institute of Neuroscience. I work with Prof. Li-Hai Tan to study the human language process from both functional and structural perspectives. I am also interested in studying verbal communications under natural conditions. Taking the advantage of the hyperscanning technique, which enables researchers to record neural signals from two or more brains simultaneouly, I conduct multi-person experiments and explore the inter-brain mechanism of daily conversations.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
