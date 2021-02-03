@@ -18,8 +18,8 @@ bio: My research interests include social interactions and human language proces
 
 # Interests to show in About widget
 interests:
-- Hyperscanning
-- Quantitative MRI
+- social interactions
+- human language
 
 # Education to show in About widget
 education:
