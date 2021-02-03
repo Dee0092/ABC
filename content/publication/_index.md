@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Myeloarchitectonic asymmetries of language regions in the human brain"
   image: ""
 ---
