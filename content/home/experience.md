@@ -22,24 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Shenzhen Institute of Neuroscience
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Shenzhen, China
+    date_start: '2019-06-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Project 1: Myeloarchitectonic asymmetries of cortical language regions;
+        * Project 2: Acupoint-Brain mapping revealed by FUS stimulation on language-relevant acupoints;
+        * Project 3: Microstructural proliferation of cortical regions of golf athletes.
         
-  - title: Professor
-    company: University X
+  - title: Master Student
+    company: East China Normal University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shanghai, China
+    date_start: '2016-09-01'
+    date_end: '2019-06-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Project 1: The inter-brain mechanism of mate choice;
+        * Project 2: The influence of oxytocin on coordination and its underlying inter-brain mechanism.
 ---
