@@ -60,8 +60,6 @@ email: "yuandi0092@gmail.com"
 highlight_name: false
 ---
 
-I am a research assistant at the Shenzhen Institute of Neuroscience. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a research assistant at the Shenzhen Institute of Neuroscience. I work with Prof. Li-Hai Tan to study the human language process from both functional and structural perspectives. I am also interested in studying verbal communications under natural conditions. Taking the advantage of the hyperscanning technique, which enables researchers to record neural signals from two or more brains simultaneouly, I conduct multi-person experiments and explore the inter-brain mechanism of daily conversations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
