@@ -27,7 +27,11 @@ feature:
 - description: 70%
   icon: head-side-brain
   icon_pack: fas
-  name: fMRI
+  name: MRI
+- description: 80%
+  icon: calculator-alt
+  icon_pack: fas
+  name: SPSS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
