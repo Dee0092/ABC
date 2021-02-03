@@ -29,11 +29,11 @@ experience:
     date_start: '2019-06-15'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Projects:
         
-        * ABC
-        * Modelling
-        * Deploying
+        * Project 1: Myeloarchitectonic asymmetries of cortical language regions
+        * Project 2: Acupoint-Brain mapping revealed by FUS stimulation on language-relevant acupoints
+        * Project 3: Microstructural proliferation of cortical regions of golf athletes
         
   - title: Master student
     company: East China Normal University
@@ -41,5 +41,9 @@ experience:
     location: Shanghai
     date_start: '2016-09-01'
     date_end: '2019-06-14'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Projects:
+        
+        * Project 1: The inter-brain mechanism of mate choice
+        * Project 2: The influence of oxytocin on coordination and its underlying inter-brain mechanism
 ---
