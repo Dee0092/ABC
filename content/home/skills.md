@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: Skills
 subtitle:
@@ -32,6 +32,10 @@ feature:
   icon: calculator-alt
   icon_pack: fas
   name: SPSS
+- description: 80%
+  icon: function
+  icon_pack: fas
+  name: SPSS 
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
