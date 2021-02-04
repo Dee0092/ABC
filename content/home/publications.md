@@ -25,8 +25,8 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: 'Research Article'
-    author: 'Di Yuan, Haoyue Tian, Yulong Zhou, Jinjian Wu, Tong Sun, Zhuoni Xiao, Chunfeng Shang, Jiaojian Wang, Xin Chen, Yimin Sun, Joey Tang, Shijun Qiu, and Li Hai Tan'
+    publication_type: ''
+    author: ''
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 2
 ---
 
 {{% callout note %}}
