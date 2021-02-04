@@ -73,6 +73,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+---
 title: "Acupoint-brain (acubrain) mapping: Common and distinct cortical language regions activated by focused ultrasound stimulation on two language-relevant acupoints"
 
 # Authors
